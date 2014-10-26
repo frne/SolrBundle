@@ -1,0 +1,7 @@
+<?php
+namespace FS\SolrBundle\Query;
+
+class RawQuery extends AbstractQuery
+{
+
+} 
